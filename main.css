@@ -1,3 +1,13 @@
-.bdy { color: blue; }
-body { background-color: black; color:lightgreen}
-h1 { color: lightblue}
+.bdy { color: rgb(0, 255, 170); 
+    font-family: Arial,
+     Helvetica, sans-serif}
+body { 
+     color: lightblue; margin: 0%;
+     padding: 0%}
+h1 { color: lightgreen}
+img { width: 1010px; height: 325px; align-self: center}
+#list {color: black;
+background-color: aqua}
+main {width: 1010px}
+.facebook { src: "https://www.facebook.com/Havonastl/" }
+.blck {background-color: black}
